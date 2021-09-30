@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDREczE2Uvk+6cQGVaGei8qbXGeRomDScEf/LRJtL9WrZDc8/sEby1wGN5QEZntB8ocrnxo6G0HaqfBVeiDFxA==",
+  "success": true,
+  "projectFilePath": "D:\\JetBrains Rider 2021.2.1\\projects\\kirill\\AlgoritmsLab1\\AlgoritmsLab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

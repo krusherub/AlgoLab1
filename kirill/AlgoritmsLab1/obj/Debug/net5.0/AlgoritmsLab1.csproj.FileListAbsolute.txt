@@ -1,0 +1,32 @@
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.csproj.AssemblyReference.cache
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.AssemblyInfoInputs.cache
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.AssemblyInfo.cs
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.csproj.CoreCompileInputs.cache
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.exe
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.deps.json
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.runtimeconfig.json
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.runtimeconfig.dev.json
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.dll
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\ref\AlgoritmsLab1.dll
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.pdb
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.dll
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\ref\AlgoritmsLab1.dll
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.pdb
+F:\C#\AlgoritmsLab1\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.genruntimeconfig.cache
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.exe
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.deps.json
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.runtimeconfig.json
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.runtimeconfig.dev.json
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.dll
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\ref\AlgoritmsLab1.dll
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\bin\Debug\net5.0\AlgoritmsLab1.pdb
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.csprojAssemblyReference.cache
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.AssemblyInfo.cs
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.dll
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\ref\AlgoritmsLab1.dll
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.pdb
+D:\JetBrains Rider 2021.2.1\projects\kirill\AlgoritmsLab1\obj\Debug\net5.0\AlgoritmsLab1.genruntimeconfig.cache
